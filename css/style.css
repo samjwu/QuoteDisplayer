@@ -1,0 +1,33 @@
+body {
+    padding: auto;
+}
+
+#quote-box {
+    margin: auto;
+    padding: auto;
+    text-align: center;
+    width: 50%;
+}
+
+#text {
+    font-size: 2rem;
+}
+
+#author {
+    font-size: 1rem;
+    text-align: right;
+}
+
+#buttons {
+    position: sticky;
+    padding: 1vw;
+    margin: 1vw;
+}
+
+#tweet-quote {
+    float: left;
+}
+
+#new-quote {
+    float: right;
+}
