@@ -1,7 +1,7 @@
 var colors = [
   "red",
   "orange",
-  "#CCCC00",
+  "yellow",
   "green",
   "blue",
   "indigo",
