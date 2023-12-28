@@ -1,3 +1,3 @@
-# Random Quote Machine
+# Quote Displayer
 
-A random quote generator
+Randomly selects and displays a quote from a list
